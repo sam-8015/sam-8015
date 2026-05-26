@@ -15,11 +15,14 @@
 
 ---
 
-### 👨‍💻 Who Am I?
+### 🚀 About Me
 
-Full-stack developer who ships real products — not just tutorial projects. I've built a **coding platform with AI debugging** that hits Lighthouse 100, and an **NLP-powered resume screener** that ranks candidates automatically. My stack goes from React UIs all the way to Docker, Kubernetes & AWS.
-
-I care about **performance, clean architecture, and solving problems that actually matter.** Currently levelling up in system design and hunting for opportunities to build at scale. 🚀
+- 🔭 &nbsp;Currently building **CodeNexus** — a full-stack coding platform with AI-powered debugging
+- 🤖 &nbsp;Love integrating **AI/ML** into real-world web apps
+- ☁️ &nbsp;Comfortable taking projects from **code → Docker → Kubernetes → AWS**
+- ⚡ &nbsp;Obsessed with performance — hit **Lighthouse 100** on my last project
+- 💬 &nbsp;Ask me about **MERN, DevOps pipelines, or system design**
+- 🤝 &nbsp;Open to **internships, collabs & open source contributions**
 
 ---
 
