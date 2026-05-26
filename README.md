@@ -15,14 +15,9 @@
 
 ---
 
-### 🚀 About Me
+I'm a full-stack developer who builds products end-to-end — from database design and REST APIs to the UI users actually interact with. My stack lives mostly in React, Node.js, MongoDB, and Redis, but I'll pick up whatever the project needs.
 
-- 🔭 &nbsp;Currently building **CodeNexus** — a full-stack coding platform with AI-powered debugging
-- 🤖 &nbsp;Love integrating **AI/ML** into real-world web apps
-- ☁️ &nbsp;Comfortable taking projects from **code → Docker → Kubernetes → AWS**
-- ⚡ &nbsp;Obsessed with performance — hit **Lighthouse 100** on my last project
-- 💬 &nbsp;Ask me about **MERN, DevOps pipelines, or system design**
-- 🤝 &nbsp;Open to **internships, collabs & open source contributions**
+I care about performance, clean architecture, and shipping things that actually work in production. Currently exploring system design and cloud infrastructure — and always open to internships and high-impact teams worth getting excited about.
 
 ---
 
