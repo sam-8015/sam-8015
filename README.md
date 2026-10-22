@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Hey%2C%20I'm%20Ehteshamul%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Dev%20%7C%20MERN%20%7C%20Cloud%20%7C%20AI%20Integrations&descSize=16&descAlignY=62&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ehteshamul%20Haque&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Node.js%20%C2%B7%20Express%20%C2%B7%20MongoDB&descSize=17&descAlignY=60&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=I+build+things+for+the+web+%F0%9F%9A%80;MERN+Stack+%2B+DevOps+%2B+AI;Always+learning%2C+always+shipping+%E2%9C%A8;Open+to+Internships+%26+Collaborations!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=I+build+full-stack+web+apps+%F0%9F%9A%80;Node.js+%C2%B7+Express+%C2%B7+MongoDB+%C2%B7+EJS;Learning+React%2C+Docker+%26+Deep+Learning;Open+to+SDE+roles+%26+collaborations+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -13,76 +13,157 @@
 
 </div>
 
----
+<br/>
 
-I'm a full-stack developer who builds products end-to-end — from database design and REST APIs to the UI users actually interact with. My stack lives mostly in React, Node.js, MongoDB, and Redis, but I'll pick up whatever the project needs.
+<h2 align="center">👨‍💻 About Me</h2>
 
-I care about performance, clean architecture, and shipping things that actually work in production. Currently exploring system design and cloud infrastructure — and always open to internships and high-impact teams worth getting excited about.
+I'm a final-year Computer Science student at **KIIT University** who enjoys building complete web applications: the database schema, the REST routes, authentication, and a responsive UI on top. I like projects that run end to end, with seed data, a clear README and a live link wherever possible.
 
----
-
-### 🛠️ My Tech Toolbox
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-**Languages & Tools**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**CodeNexus**](https://github.com/sam-8015) | Full-stack coding platform with real-time code execution, AI debugging assistant & Monaco editor | MERN · Redis · Judge0 · Gemini API |
-| [**ResumePard**](https://github.com/sam-8015) | AI-powered resume screener that ranks candidates against job descriptions using NLP | Python · Streamlit · NLP · Pandas |
-
----
-
-### 📊 GitHub Stats
+Right now I'm sharpening my DSA and moving from server-rendered apps into **React** and **DevOps tooling**.
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sam-8015&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-8015&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sam-8015&theme=tokyonight&hide_border=true&background=0d1117"/>
+| | |
+| :--- | :--- |
+| 🎓 **Education** | B.Tech, Computer Science & System Engineering, KIIT (2027) |
+| 🛠️ **Building** | Full-stack apps with Node.js, Express and MongoDB |
+| 🌱 **Learning** | React, Deep Learning, Data Structures & Algorithms |
+| 💬 **Ask me about** | REST APIs, MongoDB data modelling, session-based authentication |
+| 🏸 **Off the screen** | Badminton, swimming, travelling, reading |
 
 </div>
 
----
+<br/>
+
+<h2 align="center">🧰 Tech Toolbox</h2>
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+**Languages**
 
-🏸 Badminton &nbsp;|&nbsp; 🏊 Swimming &nbsp;|&nbsp; ✈️ Travelling &nbsp;|&nbsp; 📚 Self-Improvement
+<img src="https://skillicons.dev/icons?i=js,java,python,c&perline=4" alt="Languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap&perline=3" alt="Frontend" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4" alt="Backend and databases" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm&perline=5" alt="Tools" />
+
+**Services I've worked with**
+
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+</div>
+
+<br/>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏡 [StayNest](https://github.com/sam-8015/StayNest)
+
+An Airbnb-style platform for listing and discovering places to stay.
+
+- Browse listings with price per night and a GST-inclusive total toggle
+- Host listings with photo uploads to **Cloudinary**
+- Interactive **Mapbox** map with geocoded locations
+- Star-rated reviews; only the author can delete theirs
+- **Passport** login that returns you to the page you wanted
+- Sessions stored in MongoDB, **Joi** validation, cascade deletes
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-58A6FF?style=for-the-badge&logo=render&logoColor=white)](https://staynest-8oqo.onrender.com)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sam-8015/StayNest)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐝 [AskHive](https://github.com/sam-8015/AskHive)
+
+A Quora-style question and answer platform organised by topic.
+
+- Ask, edit and delete questions across **12 topics**
+- Keyword search, topic filter and sorting by latest, most viewed or unanswered, with pagination
+- One answer per person; **upvote toggle** that floats the best answers to the top
+- Public user profiles and owner-only edit and delete
+- Seed script with 12 demo users, 27 questions and 43 answers
+- Express 5, **connect-mongo** sessions and **Joi** validation
+
+![Node.js](https://img.shields.io/badge/Node.js%2022-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express%205-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sam-8015/AskHive)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub>Both projects follow **MVC** with RESTful routing, session-based auth, server-side validation and owner-only authorization.</sub>
+
+</div>
+
+<br/>
+
+<h2 align="center">🌱 Currently Learning &amp; Up Next</h2>
+
+<div align="center">
+
+| 📚 Learning now | 🔭 Up next |
+| :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=react&perline=1" height="48" alt="React" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,spring&perline=4" height="48" alt="Docker, Kubernetes, GitHub Actions, Spring" /> |
+| React · Deep Learning · DSA | Docker · Kubernetes · CI/CD · Spring Boot |
+
+</div>
+
+<br/>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sam-8015&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-8015&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=sam-8015&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak"/>
+
+</div>
+
+<br/>
+
+<h2 align="center">📫 Let's Connect</h2>
+
+<div align="center">
+
+Open to full-stack **SDE roles** and collaborations. The quickest way to reach me is email or LinkedIn.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ehteshamulhaque-ba6b66280)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ehteshamulhaque019436@gmail.com)
+
+<br/>
+
+*"First, solve the problem. Then, write the code."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 
