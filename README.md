@@ -53,7 +53,7 @@ Right now I'm sharpening my DSA and moving from server-rendered apps into **Reac
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm&perline=5" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&perline=4" alt="Tools" />
 
 **Services I've worked with**
 
@@ -112,6 +112,7 @@ A Quora-style question and answer platform organised by topic.
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-58A6FF?style=for-the-badge&logo=render&logoColor=white)](https://askhive-1.onrender.com)
 [![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sam-8015/AskHive)
 
 </td>
